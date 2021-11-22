@@ -1,0 +1,9 @@
+wi(p+1)=wi(p)+(a*xi(p)*e(p)) (for i =1,2)
+
+if (x1w1+x2w2>=日 ):
+	ya=1
+
+else (x1w1+x2w2<日):
+	ya=0
+
+00
